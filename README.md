@@ -1,7 +1,5 @@
 # Sentiment-Analysis
-## Case Study - Sentiment Analysis
-
-In this case study, you will be shown how to perform Sentiment Analysis on Twitter data using NLP techniques from Python.
+In this project we will perform Sentiment Analysis on Twitter data using NLP techniques from Python.
 
 ##### Scenario:
 
